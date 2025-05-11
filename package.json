@@ -1,5 +1,5 @@
 {
-  "name": "platzi-date",
+  "name": "platzi-datehelper",
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
@@ -11,10 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/milouri23/platzi-date.git"
+    "url": "git+https://github.com/milouri23/platzi-datehelper.git"
   },
   "bugs": {
-    "url": "https://github.com/milouri23/platzi-date/issues"
+    "url": "https://github.com/milouri23/platzi-datehelper/issues"
   },
   "author": "Camilo Uribe <milouri23@gmail.com>",
   "license": "MIT",
