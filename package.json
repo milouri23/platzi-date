@@ -5,10 +5,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["date", "nodejs"],
+  "keywords": [
+    "date",
+    "nodejs"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/milouri23/platzi-date.git"
+    "url": "git+https://github.com/milouri23/platzi-date.git"
+  },
+  "bugs": {
+    "url": "https://github.com/milouri23/platzi-date/issues"
   },
   "author": "Camilo Uribe <milouri23@gmail.com>",
   "license": "MIT",
