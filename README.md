@@ -24,4 +24,4 @@ MIT
 
 # Reconocimientos
 
-Se agradece a la plataforma de aprendizaje [Platzi](https://platzi.com/home/) por el [Curso de Fundamentos de Node.js](https://platzi.com/cursos/nodejs/) por la guía sobre la construcción de éste paquete y cómo publicarlo en NPM
+Se agradece a la plataforma de aprendizaje [Platzi](https://platzi.com/) con su [Curso de Fundamentos de Node.js](https://platzi.com/cursos/nodejs/) por la guía sobre la construcción de éste paquete y cómo publicarlo en [npmjs](https://www.npmjs.com/)
